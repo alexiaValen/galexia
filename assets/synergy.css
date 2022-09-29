@@ -1,0 +1,11 @@
+.galexia{
+    background-image: url("./images/galexia.JPG");
+    background-size: cover;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+
+}

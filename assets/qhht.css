@@ -1,0 +1,10 @@
+*{
+    background-image: url("./images/qhht.webp");
+    background-size: 100vh;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}

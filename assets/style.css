@@ -1,0 +1,84 @@
+/* .section{
+  background-image: url("./images/4.png");
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+} */
+
+/* .main{
+  background-image: url("./images/galexia.JPG");
+  height: 100vh;
+} */
+
+
+/* .jumbotron{
+  background-image: url('./images/galexia.JPG');
+  height: 1029px;
+  background-size: cover;
+} */
+
+.nav-links{
+  flex: auto;
+}
+.navbar-contents{
+  display: block;
+  text-align: center;
+}
+.jumbotron{
+  background-image: url('./images/galexia.JPG');
+  height: 209vh;
+  background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  box-sizing: border-box;
+}
+
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.card-synergy, .card-qhht, .card-shop, .img-fluid{
+  height: 90vh;
+}
+
+/* .card-synergy{
+  background-image: url('/assets/images/');
+}
+
+.card-qhht{
+  background-image: url('./images/');
+} */
+
+
+#shop-card{
+  background-image: url('./images/pinkspace.png');
+  background-size: cover;
+} 
+
